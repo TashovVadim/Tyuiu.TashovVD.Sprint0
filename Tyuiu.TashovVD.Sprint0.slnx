@@ -2,4 +2,12 @@
   <Folder Name="/Task0/">
     <Project Path="Tyuiu.TashovVD.Sprint0.Task0.V0/Tyuiu.TashovVD.Sprint0.Task0.V0.csproj" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.TashovVD.Sprint0.Task1.V0/Tyuiu.TashovVD.Sprint0.Task1.V0.csproj" Id="1a5a1b63-9a47-4e67-b258-76271a43f067" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.TashovVD.Sprint0.Task2.Lib/Tyuiu.TashovVD.Sprint0.Task2.Lib.csproj" Id="d0ec00a8-e620-4eb2-bc19-cb3760cf7177" />
+    <Project Path="Tyuiu.TashovVD.Sprint0.Task2.Test/Tyuiu.TashovVD.Sprint0.Task2.Test.csproj" Id="83d30c28-0af4-431e-8f55-293c3870a115" />
+    <Project Path="Tyuiu.TashovVD.Sprint0.V0/Tyuiu.TashovVD.Sprint0.Task2.V0.csproj" Id="2560856b-99ad-45b5-b80c-db7a645490c0" />
+  </Folder>
 </Solution>
