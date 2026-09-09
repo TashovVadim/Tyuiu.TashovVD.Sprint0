@@ -1,6 +1,6 @@
-﻿using Tyuiu.TashovVD.Sprint0.Task2.Lib;
+﻿using Tyuiu.TashovVD.Sprint0.Task2.V0.Lib;
 
-namespace Tyuiu.TashovVD.Sprint0.Task2.Test
+namespace Tyuiu.TashovVD.Sprint0.Task2.V0.Test
 {
     [TestClass]
     public sealed class DataServiceTest

@@ -1,4 +1,4 @@
-﻿using Tyuiu.TashovVD.Sprint0.Task2.Lib;
+﻿using Tyuiu.TashovVD.Sprint0.Task2.V0.Lib;
 
 namespace Tyuiu.TashovVD.Sprint0.V0
 {
