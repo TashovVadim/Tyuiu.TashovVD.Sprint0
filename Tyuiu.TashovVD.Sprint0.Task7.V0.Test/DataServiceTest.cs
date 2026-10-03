@@ -6,7 +6,7 @@ namespace Tyuiu.TashovVD.Sprint0.Task7.V0.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void CheckAdditionArraysValid()
+        public void AdditionArraysValid()
         {
             int[] nums1 = new int[] { 1, 1, 1, 1, 1 };
             int[] nums2 = new int[] { 1, 1, 1, 1, 1 };

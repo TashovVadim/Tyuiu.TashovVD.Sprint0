@@ -6,7 +6,7 @@ namespace Tyuiu.TashovVD.Sprint0.Task6.V0.Test;
 public sealed class DataServiceTest
 {
     [TestMethod]
-    public void CheckAdditionValid()
+    public void AdditionArrayValid()
     {
         var numbers = new int[] {1, 2, 3, 4, 5};
         var res = DataService.AdditionArray(numbers);
@@ -14,7 +14,7 @@ public sealed class DataServiceTest
     }
 
     [TestMethod]
-    public void CheckSubstractionValid()
+    public void SubstractionArrayValid()
     {
         var numbers = new int[] { 1, 2, 3, 4, 5 };
         var res = DataService.SubstractionArray(numbers);
@@ -22,7 +22,7 @@ public sealed class DataServiceTest
     }
 
     [TestMethod]
-    public void CheckMultiplicationValid()
+    public void MultiplicationArrayValid()
     {
         var numbers = new int[] { 1, 2, 3, 4, 5 };
         var res = DataService.MultiplicationArray(numbers);

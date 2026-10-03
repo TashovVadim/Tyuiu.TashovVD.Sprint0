@@ -6,25 +6,25 @@ namespace Tyuiu.TashovVD.Sprint0.Task4.V0.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void CheckedAdditionValid()
+        public void AdditionValid()
         {
             Assert.AreEqual(10, DataService.Addition(5, 5));
         }
 
         [TestMethod]
-        public void CheckedSubtractionValid()
+        public void SubtractionValid()
         {
             Assert.AreEqual(5, DataService.Subtraction(10, 5));
         }
 
         [TestMethod]
-        public void CheckedMultiplicationValid()
+        public void MultiplicationValid()
         {
             Assert.AreEqual(50, DataService.Multiplication(10, 5));
         }
 
         [TestMethod]
-        public void CheckedDivisionValid()
+        public void DivisionValid()
         {
             Assert.AreEqual(3, DataService.Division(9, 3));
         }
